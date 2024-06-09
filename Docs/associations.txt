@@ -1,0 +1,5 @@
+=> Pour l'association des "boutons poussoirs", on utilise les "contacts auxiliaires".
+
+=> Pour l'association des "capteurs", on utilise les "interrupteurs de capteurs".
+
+=> Pour l'association des "distributeurs", on utilise les "solénoides, CC/CA".
