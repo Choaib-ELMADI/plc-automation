@@ -1,0 +1,21 @@
+==> Les contacts:
+    ----| |----: contact ouvert au repos.
+
+    ----|/|----: contact fermé au repos.
+
+    ----|P|----: contact active au front montant.
+
+    ----|N|----: contact active au front descendant.
+
+==> Les bobines:
+    ----( )----: bobine directe.
+
+    ----(/)----: bobine inverse.
+
+    ----(S)----: bobine d'enclenchement.
+
+    ----(R)----: bobine de déclenchement.
+
+==> Temporisateur:
+    * T-on
+    * T-off
