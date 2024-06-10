@@ -3,3 +3,8 @@
 # PLC Automation
 
 This repository contains a collection of PLC automation programs and projects with comprehensive notes and documentation for learning and development.
+
+### [1. Starting with the Basics:](./Machining%20System/)
+
+![Hydrolic and Pneumatic Systems](./Machining%20System/Images/1.png)
+![Relais Program](./Machining%20System/Images/2.png)
