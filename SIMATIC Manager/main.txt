@@ -1,0 +1,42 @@
+1. Introduction:
+    => The creation of a plant or a machine is typically a project that comprizes 4 phases:
+        * Planning and Configuring
+        * Implementation and Module Test
+        * Testing and Commissioning
+        * Operation and Maintenance
+
+    => The SIMATIC software supports you in all the phases of the project.
+
+2. SIMATIC Manager:
+    => SIMATIC Manager integrates, in one place, all the tools you need while developing your project. Tools like:
+        * Hardware Configuration
+        * Network Configuration
+        * Symbol Processing
+        * Test Functions
+        * Archiving
+        * Program Generation "Controller": LAD, FBD, STL __ S7-SCL __ S7-GRAPH
+        * Operating and Monitoring Systems "HMI": e.g WinCC flexible
+        * Runtime Software: e.g PID Control
+        * Data Management throughout the Configuration
+
+    => All the objects handled by the SIMATIC Manager have an equivalent in the real objects of the plant.
+
+3. Project Development:
+    => Planning and Configuring:
+        -> Creating a project with station
+        -> Setting up the hardware
+        -> Configuring the connections
+
+    => Implementation and Module Test:
+        -> Create the symbols
+        -> Develop the control program
+        -> Program test module by module
+        -> Configure the visualization
+
+    => Testing and Commissioning:
+        -> Load the program
+        -> Test in regular operation
+        -> Archiving and backup
+
+    => Operation and Maintenance
+        -> Teleservice
