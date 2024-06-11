@@ -4,14 +4,14 @@
 
 This repository contains a collection of PLC automation programs and projects with comprehensive notes and documentation for learning and development.
 
-### [1. PLC Basic Elements:](./Projects/PLC%20Basic%20Elements/)
+### [1. PLC Basic Elements:](./Automation%20Studio/PLC%20Basic%20Elements/)
 
-![Pneumatic System](./Projects/PLC%20Basic%20Elements/Images/1.png)
-![PLC Program](./Projects/PLC%20Basic%20Elements/Images/2.png)
-![Proximity Sensors](./Projects/PLC%20Basic%20Elements/Images/3.png)
-![Timers](./Projects/PLC%20Basic%20Elements/Images/4.png)
+![Pneumatic System](./Automation%20Studio/PLC%20Basic%20Elements/Images/1.png)
+![PLC Program](./Automation%20Studio/PLC%20Basic%20Elements/Images/2.png)
+![Proximity Sensors](./Automation%20Studio/PLC%20Basic%20Elements/Images/3.png)
+![Timers](./Automation%20Studio/PLC%20Basic%20Elements/Images/4.png)
 
-### [2. Initial Program:](./Projects/Machining%20System/)
+### [2. Initial Program:](./Automation%20Studio/Projects/Machining%20System/)
 
-![Hydraulic and Pneumatic Systems](./Projects/Machining%20System/Images/1.png)
-![Relais Program](./Projects/Machining%20System/Images/2.png)
+![Hydraulic and Pneumatic Systems](./Automation%20Studio/Projects/Machining%20System/Images/1.png)
+![Relais Program](./Automation%20Studio/Projects/Machining%20System/Images/2.png)
