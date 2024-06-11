@@ -1,0 +1,15 @@
+=> What is HMI?
+    -> HMI refers to Human-Machine Interface.
+    -> SIMATIC HMI is a technology from Siemens that allows humans to interact with machines.
+    -> This interaction typically involves a graphical display that operators use to monitor and control industrial processes.
+
+=> The SIMATIC HMI will take you from the phase four of the life cycle of automation systems, "Operation and Maintenance":
+    -> Operator Control
+    -> Monitoring
+    -> Reporting
+    -> Archiving
+    -> Logging
+
+=> What is WinCC Flexible?
+    -> WinCC Flexible is a software tool from Siemens used for designing and configuring HMI applications.
+    -> It's part of the SIMATIC HMI system.
