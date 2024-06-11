@@ -1,0 +1,8 @@
+=> The SIMATIC Manager software supports a variety of programming languages:
+    * LAD: LADDER
+    * FBD: Function Block Diagram
+    * STL: Statement Lists
+
+=> The programming editor lets you choose between two types of programming:
+    * Source Oriented Programming: a source program that gets compiled into the executable program.
+    * Incremental Programming: the program is immediately checked and compiled as it is entered.

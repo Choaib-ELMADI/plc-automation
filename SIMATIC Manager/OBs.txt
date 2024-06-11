@@ -1,0 +1,10 @@
+=> OB refers to an Organization Block.
+
+=> OB100 - OB102 contains the system startup\intial state.
+=> OB1 contains the main\free cycling program.
+
+=> OB30 - OB40 contains time driven interrupt programs.
+=> OB40 - OB47 contains hardware driven interrupt programs.
+
+=> OB12x contains synchronous errors driven interrupt programs.
+=> OB8x contains asynchronous errors driven interrupt programs.
