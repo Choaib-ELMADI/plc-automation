@@ -14,4 +14,5 @@ This repository contains a collection of PLC automation programs and projects wi
 ### [2. Initial Program:](./Automation%20Studio/Projects/Machining%20System/)
 
 ![Hydraulic and Pneumatic Systems](./Automation%20Studio/Projects/Machining%20System/Images/1.png)
-![Relais Program](./Automation%20Studio/Projects/Machining%20System/Images/2.png)
+![Relais Circuit](./Automation%20Studio/Projects/Machining%20System/Images/2.png)
+![LADDER Program](./Automation%20Studio/Projects/Machining%20System/Images/3.png)
