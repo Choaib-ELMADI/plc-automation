@@ -11,8 +11,10 @@ This repository contains a collection of PLC automation programs and projects wi
 ![Proximity Sensors](./Automation%20Studio/PLC%20Basic%20Elements/Images/3.png)
 ![Timers](./Automation%20Studio/PLC%20Basic%20Elements/Images/4.png)
 
-### [2. Initial Program:](./Automation%20Studio/Projects/Machining%20System/)
+### [2. Initial Program:](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/)
 
-![Hydraulic and Pneumatic Systems](./Automation%20Studio/Projects/Machining%20System/Images/1.png)
-![Relais Circuit](./Automation%20Studio/Projects/Machining%20System/Images/2.png)
-![LADDER Program](./Automation%20Studio/Projects/Machining%20System/Images/3.png)
+![Hydraulic and Pneumatic Systems](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/1.png)
+![Relais Circuit](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/2.png)
+![LADDER Program](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/3.png)
+![LADDER Program](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/4.png)
+![LADDER Program](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/5.png)
