@@ -13,8 +13,10 @@ This repository contains a collection of PLC automation programs and projects wi
 
 ### [2. Initial Program:](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/)
 
+https://github.com/Choaib-ELMADI/plc-automation/assets/111356633/8c1f8d6b-1f57-43b8-948d-41598a222a49
+
 ![Hydraulic and Pneumatic Systems](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/1.png)
-![Relais Circuit](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/2.png)
+![LADDER Program](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/2.png)
 ![LADDER Program](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/3.png)
-![LADDER Program](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/4.png)
-![LADDER Program](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/5.png)
+![Electro-technic Circuit](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/4.png)
+![GRAFCET](./Automation%20Studio/Projects/Machining%20System%20with%20Animation/Images/5.png)
