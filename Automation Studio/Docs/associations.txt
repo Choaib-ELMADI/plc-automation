@@ -1,3 +1,7 @@
+_                    <Hydraulique / Pneumatique>                 <Circuits>                     -
+_                                |                                    |                         -
+_                                v                                    v                         -
+
 => Pour l'association des "boutons poussoirs", on utilise les "contacts auxiliaires".
 
 => Pour l'association des "capteurs", on utilise les "interrupteurs de capteurs".

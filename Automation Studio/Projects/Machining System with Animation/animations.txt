@@ -1,0 +1,9 @@
+Piston:
+    - Position 0%: (619, 302, 2, 8)
+    - Position 20%: (625, 302, 2, 8)
+    - Position 100%: (645, 302, 2, 8)
+
+Box:
+    - Position 0: (627, 273, 8, 8)
+    - Position 1: (627, 302, 8, 8)
+    - Position 2: (647, 302, 8, 8)
