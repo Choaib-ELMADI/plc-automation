@@ -1,0 +1,10 @@
+==> Animations with cylinder elements:      
+    * 
+
+==> Moving elements:
+    * To move an element, you need to change its X and Y coordinates over time.
+
+    - Translations:
+        * Making translations involves defining the initial position for the object and its final position (how much it will move).
+        * These translations are related to other objects that are actually moving (like a piston).
+        NB: The object that you want to animate and the one that is actually moving need to be linked together (create a new variable), then associate the new created variable to the variable containing the changing value (extension of a piston for example).
