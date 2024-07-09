@@ -24,11 +24,11 @@
 3. Project Development:
     => Planning and Configuring:
         -> Creating a project with station
-        -> Setting up the hardware
+        -> Setting up the hardware (setup addresses, ...)
         -> Configuring the connections
 
     => Implementation and Module Test:
-        -> Create the symbols
+        -> Create the symbols (inputs, outputs, memory, ...)
         -> Develop the control program
         -> Program test module by module
         -> Configure the visualization
@@ -40,3 +40,18 @@
 
     => Operation and Maintenance
         -> Teleservice
+
+4. Creating a Project:
+    => Symbols in the English version:
+        - Input: I
+        - Output: Q
+        - Memory: M
+
+    => Symbols in the French version:
+        - Input: E
+        - Output: A
+        - Memory: M
+
+    => The MOVE instruction in OB100 is used to set initial values or reset variables when the PLC starts running.
+
+    => 
