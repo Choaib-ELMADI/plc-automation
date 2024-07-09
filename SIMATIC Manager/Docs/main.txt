@@ -54,4 +54,14 @@
 
     => The MOVE instruction in OB100 is used to set initial values or reset variables when the PLC starts running.
 
-    => 
+    => Connect SIMATIC Manager with FluidSim via EzOPC:
+        - In SIMATIC Manager:
+            * Start a simulation and select a communication protocol
+            * Select your PLC station and Download it
+
+        - FluidSim:
+            * Click Options
+            * Select EasyPort\OPC\DDE Connection...
+            * Select OPC mode
+            * Configure the FluidSim Out modules
+            * Start (Run)
