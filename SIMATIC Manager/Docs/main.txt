@@ -65,3 +65,5 @@
             * Select OPC mode
             * Configure the FluidSim Out modules
             * Start (Run)
+
+    => In SIMATIC Manager, to visualize the state of a GRAFCET, click the Monitor option and start running your program.
