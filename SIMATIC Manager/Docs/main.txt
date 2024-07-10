@@ -66,4 +66,4 @@
             * Configure the FluidSim Out modules
             * Start (Run)
 
-    => In SIMATIC Manager, to visualize the state of a GRAFCET, click the Monitor option and start running your program.
+    => In SIMATIC Manager, to visualize the status of a program, click the Monitor option and start running the program.
